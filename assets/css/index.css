@@ -1,0 +1,134 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 17px;
+    color: rgb(209, 162, 7);
+    
+}
+#showcase {
+    background-image: url("../images/background.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    color: rgb(5, 173, 173);
+
+}
+#showcase h1 {
+  font-size: 50px;
+
+}
+#showcase p{
+    font-size: 20px;
+}
+#showcase .students {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(5, 173, 173);
+    border: 2px solid rgb(5, 173, 173);
+    padding: 10px 20px ;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#showcase .professors {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(5, 173, 173);
+    border: 2px solid rgb(5, 173, 173);
+    padding: 10px 20px ;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#showcase .students:hover {
+    background:rgb(5, 173, 173);
+    color:#fff
+}
+#showcase .professors:hover {
+    background:rgb(5, 173, 173);
+    color:#fff
+
+}
+
+.countainer{
+    padding: 20 px;
+    height: 450px;
+
+ }
+ .header{
+ 
+     height: 150px;
+     margin-top:  0.1cm;
+     margin-bottom: - 0.1cm;
+     margin-left: - 0.1cm;
+     margin-right: - 0.1cm;
+     background-color: beige;
+    
+ }
+ .corps{
+     height: 600px;
+   
+     margin-top: 0cm;
+     margin-bottom: 0.3cm;
+     margin-left: 0cm;
+     margin-right: 0cm;
+ 
+ 
+ }
+ 
+ .logo{
+      
+     width:18%;
+     float: left;
+     height: 150px;
+   
+ 
+ }
+ .slogan{
+    
+     width:70%;
+     display: inline-block;
+     font-style: Arial;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     margin-top: 15px;
+     margin-bottom: 2cm;
+     margin-left: 50px;
+     color: rgb(144, 111, 38);
+     border: 2px solid ;
+     border-radius: 5px;
+     
+     
+ }
+ 
+ 
+ 
+ .mirando
+ {
+     display:flex;
+ }
+ .menu
+ {
+    
+     border:2px solid black;
+     height: 300px;
+     width: 400px;
+     margin-right: 0.5cm;
+ }
+ .body{
+     
+     border:2px solid black;
+     height: 400px;
+     width: 700px;
+ }

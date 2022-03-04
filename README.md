@@ -1,1 +1,1 @@
-# Mini-Classroom
+# Miniclassroom

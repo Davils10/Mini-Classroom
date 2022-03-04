@@ -1,0 +1,102 @@
+html{
+    margin:0;
+    padding:0;
+    background-color: beige;
+
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 17px;
+    color:beige;
+}
+section html{
+    margin:0;
+    padding:0;
+    background-color: beige;
+
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 17px;
+    color:beige;
+}
+section{
+    margin-bottom: 10px;
+}
+.card{
+    color:black; 
+    margin-bottom: 15px;
+    font-weight: bolder;
+    height:350px;
+}
+.card-title{
+    border: 2px solid aliceblue;
+    text-align: center;
+    background-color:aliceblue;
+    color:black; 
+}
+.card-text{
+    font-size: 15px;
+}
+.card-text
+{
+
+    margin-bottom: 10px;
+}
+.card{
+    color:black; 
+    margin-bottom: 15px;
+    font-weight: bolder;
+    height:350px;
+}
+.card-title{
+    border: 2px solid aliceblue;
+    text-align: center;
+    background-color:aliceblue;
+    color:black; 
+}
+.card-text{
+    font-size: 15px;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+.btn-warning
+{
+    text-align: center;
+}
+
+.bienvenue
+    {
+      border: 1px solid white;
+      border-radius: 25%;
+      position: relative;
+      animation-name: example;
+      animation-duration: 3s;  
+      animation-fill-mode: forwards;
+    }
+    
+    @keyframes example {
+      from {top: 100px;}
+      to {top: 0px;}
+    }
+    h2
+    {
+        color: rgb(255, 255, 255);
+    }
+    h2:hover
+   {
+       color: rgb(198, 255, 252);
+   }
+   h3
+    {
+        color: rgb(255, 255, 255);
+    }
+    h3:hover
+   {
+       color: rgb(198, 255, 252);
+   }
+   h4:hover
+   {
+       color: rgb(7, 109, 104);
+   }
